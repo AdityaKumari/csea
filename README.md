@@ -1,7 +1,6 @@
 <p align="center">
 <a href="https://dscommunity.in">
-	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
-	<img src="csea.jpeg" width=20% style="float:left">
+	<img src="https://github.com/AdityaKumari/csea/blob/master/csea.jpeg?raw=true" width=20%>
 </a>
 	<h2 align="center"> < Insert Project Title Here > </h2>
 	<h4 align="center"> < Insert Project Description Here > <h4>
