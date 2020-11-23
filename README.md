@@ -1,9 +1,18 @@
 <p align="center">
 <a href="https://dscommunity.in">
-	<img src="https://github.com/AdityaKumari/csea/blob/master/csea.jpeg?raw=true" width=20%>
+	<img src="https://github.com/AdityaKumari/csea/blob/master/csea.jpeg?raw=true" width=20% align="left">
+	
 </a>
+<br>
+<br>
+        <h1 align="center"> <b>CSE ASSOCIATION </b></h1>
+	<br>
+	<br>
+	<br>
 	<h2 align="center"> < Insert Project Title Here > </h2>
 	<h4 align="center"> < Insert Project Description Here > <h4>
+	
+	
 </p>
 
 ---
@@ -40,24 +49,17 @@
 
 ## Contributors
 
-<table>
-<tr align="center">
+<ol>
 
 
-<td>
-
-John Doe
-
+<li>
+<img src = ""  height="120" alt="Your Name Here">
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/person1"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/person1">
+<a href = "#"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "#">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
-</td>
 
 
 <td>
