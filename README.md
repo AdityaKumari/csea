@@ -86,6 +86,6 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 <p align="center">
-	Made by <a href="#">CSE Association SRM</a>
+	Made by <a href="#">CSE Association SRM </a>
 </p>
 
